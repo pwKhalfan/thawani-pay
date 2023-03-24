@@ -1,0 +1,19 @@
+{
+    "name": "pwk/thawani-pay",
+    "description": "A Laravel package for integrating your system with Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khalfan Alamri",
+            "email": "khalfan.alamri20@gmail.com",
+            "twitter": "https://twitter.com/_ikhalfan"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pwk\\thawani-pay\\": "src/"
+        }
+    }
+}
